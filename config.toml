@@ -68,14 +68,16 @@ include_content = true
 [extra]
 # Put all your custom variables here
 
-# Duckquill options
+# ----------
+# Duckquill:
+# ----------
 default_theme = "dark"
 
 # Sets theme and browser theme color.
-accent_color = ""
+accent_color = "#c66bff"
 
 # Ditto but for the dark theme. If not set regular variant will be used.
-accent_color_dark = ""
+accent_color_dark = "#eed3ff"
 
 # Additional CSS styles; expects them to be in the ./static/ directory. If you are using Sass it will be generated there automatically.
 styles = ["duckquill-mods.css"]
