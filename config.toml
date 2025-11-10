@@ -50,6 +50,9 @@ bottom_footnotes = true
 # See "Internal links & deep linking" in the documentation for more information.
 insert_anchor_links = "heading"
 
+# GitHub flavored alerts
+github_alerts = true
+
 [search]
 # Whether to include the title of the page/section in the index
 include_title = true
@@ -64,8 +67,24 @@ include_content = true
 
 [extra]
 # Put all your custom variables here
-# Extra SCSS
-styles = ["duckquill-mods.css"]
 
 # Duckquill options
 default_theme = "dark"
+
+# Sets theme and browser theme color.
+accent_color = ""
+
+# Ditto but for the dark theme. If not set regular variant will be used.
+accent_color_dark = ""
+
+# Additional CSS styles; expects them to be in the ./static/ directory. If you are using Sass it will be generated there automatically.
+styles = ["duckquill-mods.css"]
+
+# Enables table of contents. Only first 2 levels of headings are listed.
+toc = true
+
+# Whether to display table of contents as a sidebar (useful for long pages).
+toc_sidebar = true
+
+# Filename of the colocated favicon.
+# favicon = "" 
