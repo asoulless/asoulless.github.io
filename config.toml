@@ -43,5 +43,8 @@ smart_punctuation = true
 
 [extra]
 # Put all your custom variables here
+# Extra SCSS
+styles = ["duckquill-mods.css"]
 
+# Duckquill options
 default_theme = "dark"
