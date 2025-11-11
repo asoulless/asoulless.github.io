@@ -3,3 +3,12 @@
 
 // Modern Headings
 @use "../themes/duckquill/sass/mods/modern-headings";
+
+// Custom background image
+@import "../themes/duckquill/sass/_variables.scss";
+
+body {
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
