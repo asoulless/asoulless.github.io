@@ -92,7 +92,7 @@ styles = ["duckquill-mods.css", "styles.css"]
 # See https://www.getzola.org/documentation/content/syntax-highlighting/
 show_copy_button = true
 # Whether to show estimated read time in posts.
-show_reading_time = true
+show_reading_time = false # Disabling until I can find a way to disable it per-section
 #
 # Whether to show a share button in article's quick actions.
 # Uses https://shareopenly.org.
