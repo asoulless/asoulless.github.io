@@ -107,7 +107,9 @@ toc = true
 toc_sidebar = true
 
 # Filename of the colocated favicon.
-# favicon = ""
+# NOTE: This is expected to be in the ./static/ directory's root. In fact, setting the option below doesn't seem to matter. You just need a file named `favicon.png`.
+# favicon = "favicon.png"
+# apple_touch_icon = "favicon.png"
 
 [extra.nav]
 # Whether to automatically hide nav when not hovered or focused
