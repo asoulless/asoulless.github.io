@@ -12,11 +12,11 @@
 
 @include theme-variables using ($theme) {
     @if $theme == "dark" {
-        --bg-overlay: linear-gradient(rgb(from var(--bg-color) r g b / 0.95), rgb(from var(--bg-color) r g b / 0.95));
+        --bg-overlay: linear-gradient(rgb(from var(--bg-color) r g b / 0.97), rgb(from var(--bg-color) r g b / 0.97));
     }
 
     @else {
-        --bg-overlay: linear-gradient(rgb(from var(--bg-color) r g b / 0.95), rgb(from var(--bg-color) r g b / 0.95));
+        --bg-overlay: linear-gradient(rgb(from var(--bg-color) r g b / 0.97), rgb(from var(--bg-color) r g b / 0.97));
     }
 }
 
