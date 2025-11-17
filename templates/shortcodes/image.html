@@ -27,9 +27,14 @@
 {%- if spoiler and solid -%}
 	{%- set image_classes = image_classes | concat(with="solid") -%}
 {%- endif -%}
+
+{# Template modified to add this style below: #}
+
 {%- if pfp -%}
 	{%- set image_classes = image_classes | concat(with="pfp") -%}
 {%- endif -%}
+
+{# End of modification. much hack. very sloppy lol #}
 
 {%- set image_classes = image_classes | join(sep=" ") -%}
 
