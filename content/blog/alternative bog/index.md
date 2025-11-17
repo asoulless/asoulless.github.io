@@ -2,6 +2,9 @@
 title = "alternative bog"
 date = "2025-11-12"
 
+[taxonomies]
+tags = ["testing"]
+
 [extra]
 banner = "pfp.png"
 
@@ -12,8 +15,6 @@ accent_color_dark = "#0000ff"
 This is a testing blog with a banner. I could probably use the same thing on the project pages...
 
 uhhhhh content here:
-
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id dui a dolor rutrum egestas. Vestibulum non leo a metus condimentum varius quis at quam. Fusce ligula ante, vulputate sed sapien quis, gravida rutrum turpis. Pellentesque venenatis lacus non ligula tempor, sed accumsan lectus efficitur. Nullam in neque a ex molestie euismod. Praesent enim lorem, semper vel hendrerit ac, venenatis nec eros. Proin semper eros eu bibendum vestibulum. Maecenas eu velit non risus viverra bibendum.
 

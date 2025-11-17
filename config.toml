@@ -27,6 +27,10 @@ feed_limit = 20
 # The default author for pages
 author = "Yoru C. Heartless"
 
+taxonomies = [
+    { name = "tags", feed = false },
+]
+
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
