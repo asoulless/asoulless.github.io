@@ -136,6 +136,7 @@ links = [
  	{ url = "@/blog/_index.md", name = "Blog" },
  	{ url = "@/projects/_index.md", name = "Projects" },
     { name = "Other pages", menu = [
+        { url = "@/about-me.md", name = "About me"},
         { url = "@/testing page.md", name = "Testing Page"}
     ]}
 ]
