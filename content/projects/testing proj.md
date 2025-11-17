@@ -1,6 +1,7 @@
 +++
 title = "testing project"
 description = "this project is a slight test"
+weight = 1
 
 [taxonomies]
 tags = ["testing"]

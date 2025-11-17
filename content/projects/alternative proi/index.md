@@ -1,5 +1,6 @@
 +++
 title = "alternative project"
+weight = 1
 
 [taxonomies]
 tags = ["testing"]
