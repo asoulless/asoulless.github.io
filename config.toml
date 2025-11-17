@@ -122,21 +122,24 @@ show_repo = true
 # For local files use same link format as in Markdown,
 # i.e. "@/blog/_index.md".
 # See https://www.getzola.org/documentation/content/linking/#internal-links
-# links = [
-# { name = "Links", menu = [
-# 		{ url = "@/blog/_index.md", name = "Blog thing" },
-# 		{ url = "@/introduction.md", name = "intro" }
-# 	] },
-# ]
+
+# NOTE: If you want to do a sub-menu, do something like this:
+#    { name = "Links", menu = [
+
+links = [
+ 	{ url = "@/blog/_index.md", name = "Blog" },
+ 	{ url = "@/projects/_index.md", name = "Projects" },
+    { name = "Other pages", menu = [
+        { url = "@/testing page.md", name = "Testing Page"}
+    ]}
+]
 
 [extra.footer]
 # Links used in the footer.
 # Same as the nav ones.
 # links = [
 # 	{ url = "@/blog/_index.md", name = "Blog" },
-# 	{ url = "@/demo/index.md", name = "Demo" },
-# 	{ url = "@/mods/index.md", name = "Mods" },
-# 	{ url = "https://daudix.one/coffee/", name = "Coffee" }
+# 	{ url = "@/projects/_index.md", name = "Projects" },
 # ]
 # Social links in the footer.
 # Any URL-encoded SVG can be used as an icon.
