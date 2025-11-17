@@ -10,7 +10,18 @@
 // Custom background image
 @import "../themes/duckquill/sass/_variables.scss";
 
+@include theme-variables using ($theme) {
+    @if $theme == "dark" {
+        --bg-overlay: linear-gradient(rgb(from var(--bg-color) r g b / 0.95), rgb(from var(--bg-color) r g b / 0.95));
+    }
+
+    @else {
+        --bg-overlay: linear-gradient(rgb(from var(--bg-color) r g b / 0.95), rgb(from var(--bg-color) r g b / 0.95));
+    }
+}
+
 body {
+    background-image: var(--bg-overlay), url("img/bg.png");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
