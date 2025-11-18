@@ -9,11 +9,7 @@ styles = [
 
 +++
 
-~~<small>writing about myself is 苦痛</small>~~
-
-## Hi! I'm Yoru.
-<small>Thanks to [Mambuco](https://mambuco.dev/) and [Daudix](https://daudix.one/home/) for the styling for the section below!</small>
-
+Writing about myself is <abbr title="kutsuu; pain">苦痛</abbr>, so I put it into a bunch of blocks instead!
 <ul class="masonry">
 <li>
 <article class="fancy-list">
