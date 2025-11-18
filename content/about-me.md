@@ -12,23 +12,39 @@ styles = [
 ~~<small>writing about myself is 苦痛</small>~~
 
 ## Hi! I'm Yoru.
-To be honest, I'm still not sure what to put here (I guess some things never change ¯\\\_(ツ)_/¯). I play games, work on projects, and sometimes hang out with friends (though I should really do that last one more often...). Maybe I should just add everything in some blocks like what [Mambuco](https://mambuco.dev/about) and [Daudix](https://daudix.one/home/#about) did...
+<small>Thanks to [Mambuco](https://mambuco.dev/) and [Daudix](https://daudix.one/home/) for the styling for the section below!</small>
 
 <ul class="masonry">
-    <li>
-        <article>
-            this is a test
-        </article>
-    </li>
 <li>
 <article class="fancy-list">
     
-**and now a test with subs**
+Some things that I'm typically doing:
 
-- this
-- that,
-- and that other thing
+- Playing Persona 5 Royal
+- Making/editing videos
+- Getting lost down mental rabbit holes
+- Hanging out with friends
 
+</article>
+</li>
+<li>
+<article>
+I actually made <a href="/img/bg.png">the background for this website</a> myself. Well, not entirely. A lot of the icons were based off of the <a class="external" href="https://phosphoricons.com">Phosphor Icons</a>. Still, it's an edited version of the wallpaper that I currently use on my devices.
+</article>
+</li>
+<li>
+<article>
+Lots of people in my life know me for being good with technology, but I find myself enjoying designing and putting things together. It's not something that I would want to do as a job, though...
+</article>
+</li>
+<li>
+<article>
+I actually have high-functioning (or level 1 for a more specific term) autism. That generally means that I can typically get around just fine in my life, but there are still things that will take me a bit longer, such as trying to think through a question to give a response, or that I'll just need help with. It's not something I tend to tell people about, though...
+</article>
+</li>
+<li>
+<article>
+Maybe I'll think of more stuff to add here later...
 </article>
 </li>
 </ul>
