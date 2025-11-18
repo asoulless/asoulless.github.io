@@ -1,0 +1,31 @@
+@import "vars";
+
+@include theme-variables using ($theme) {
+    @if $theme == "dark" {
+        a, button {
+            &.colored.bright {
+                box-shadow: none;
+                background-color: var(--accent-color-alt);
+                color: var(--contrast-color);
+
+                &:hover {
+                    box-shadow: var(--edge-highlight);
+                    background-color: var(--accent-color);
+                }
+            }
+        }
+    } @else {
+        a, button {
+            &.colored.bright {
+                box-shadow: none;
+                background-color: var(--accent-color-alt);
+                color: var(--contrast-color);
+                
+                &:hover {
+                    box-shadow: var(--edge-highlight);
+                    background-color: var(--accent-color);
+                }
+            }
+        }
+    }
+}

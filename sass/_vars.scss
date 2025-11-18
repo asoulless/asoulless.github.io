@@ -1,12 +1,14 @@
-@import "../themes/duckquill/sass/_variables.scss";
+@import "duckquill-mods";
 
 // Some variables for some themed colors
 @include theme-variables using ($theme) {
     @if $theme == "dark" {
         --surface0: hsl(from var(--bg-color) h s calc(l + 5));
         --surface1: hsl(from var(--bg-color) h s calc(l + 10));
+        --accent-color-alt: hsl(from var(--accent-color) h calc(s + 5) calc(l - 10));
     } @else {
         --surface0: hsl(from var(--bg-color) h s l);
-        --surface1: hsl(from var(--bg-color) h s calc(l - 5));
+        --surface1: hsl(from var(--bg-color) h s calc(l - 4));
+        --accent-color-alt: hsl(from var(--accent-color) h s calc(l + 12));
     }
 }
