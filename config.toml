@@ -1,6 +1,5 @@
 # The URL the site will be built for
-# base_url = "https://asoulless.space"
-base_url = "https://asoulless.github.io"
+base_url = "https://asoulless.space"
 
 # The site title and description; used in feeds by default.
 title = "Yoru's Asoulless Space"
