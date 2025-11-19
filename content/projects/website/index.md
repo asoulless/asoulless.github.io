@@ -16,7 +16,7 @@ banner = "banner.png"
   <a class="colored external" href="https://github.com/asoulless/asoulless.github.io">See the GitHub repository</a>
 </div>
 
-The current website you're on right now! This one was made using <a class="external" href="https://getzola.org/">Zola</a> and Daudix's <a class="external" href="https://duckquill.daudix.one/">Duckquill</a> theme. Originally, I was thinking of using his <a class="external" href="https://ametrine.daudix.one/">Amertrine</a> theme, but that one's still in its pre-alpha state (and I couldn't figure out how to fix the issues I was having with it when I did attempt to use it fast enough lol), so I just settled on Duckquill. I think the website's leagues better than [the old one](@/projects/old-website/index.md) I had.
+The current website you're on right now! This one was made using <a class="external" href="https://getzola.org/">Zola</a> and Daudix's <a class="external" href="https://duckquill.daudix.one/">Duckquill</a> theme. Originally, I was thinking of using his <a class="external" href="https://ametrine.daudix.one/">Amertrine</a> theme, but that one's still in its pre-alpha state (and I couldn't figure out how to fix the issues I was having with it when I did attempt to use it fast enough lol), so I just settled on Duckquill. I think the website's leagues better than [the old one](@/projects/old-website/index.md) I had. It's now hosted on GitHub Pages for now, though I would like to find a better place to host it in the future. For now, though, I just want to see how expansive this site will get... 
 
 ## Thanks!
 I wanted to thank some people for the tools used for this website.
