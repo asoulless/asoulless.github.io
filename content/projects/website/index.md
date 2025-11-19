@@ -1,5 +1,5 @@
 +++
-title = "The website"
+title = "The Website"
 description = "The new and improved website"
 
 weight = 0
