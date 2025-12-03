@@ -1,6 +1,7 @@
 +++
 title = "alternative bog"
 date = "2025-11-12"
+draft = true
 
 [taxonomies]
 tags = ["testing"]
