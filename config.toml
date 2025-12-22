@@ -82,6 +82,8 @@ accent_color = "#920025"
 # Ditto but for the dark theme. If not set regular variant will be used.
 accent_color_dark = "#ffa8b4"
 
+card = false
+
 # URL to website's issue tracker
 issues_url = "https://github.com/asoulless/asoulless.github.io/issues"
 # URL to website's source code
