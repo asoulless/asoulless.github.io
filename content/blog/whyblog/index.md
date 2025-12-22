@@ -6,6 +6,7 @@ date = 2025-12-22
 [extra]
 accent_color = "hsl(340, 32%, 31%)"
 accent_color_dark = "hsl(340, 41%, 71%)"
+banner = "banner.png"
 card = "banner.png"
 +++
 
