@@ -16,6 +16,6 @@ banner = "banner.png"
   <a class="colored external" href="https://codeberg.org/yoru/patch-notes">See the Codeberg repository</a>
 </div>
 
-The public [Logseq](https://logseq.com) graph that I'm starting to publish to less and less. I originally used it as a blog of sorts due to the blog-centered layout that made it much easier for me to explore my own thoughts, due to how difficult it is for me to piece together thoughts to actually write something tangible. I'll write more about it in a blog post that I'll post once I've actually finished up this website.
+The public [Logseq](https://logseq.com) graph that I'm starting to publish to less and less. I originally used it as a blog of sorts due to the blog-centered layout that made it much easier for me to explore my own thoughts, due to how difficult it is for me to piece together thoughts to actually write something tangible. I wrote a bit more about why I decided to start an actual blog in [this blog post](@/blog/whyblog/index.md).
 
 In the meantime, it's still up and running, hosted once again on [Codeberg Pages](https://codeberg.page). ~~I'm surprised that Codeberg hasn't given my repo the boot yet.~~
