@@ -1,6 +1,6 @@
 +++
 title = "Anthropic banned my account, and that's a good thing"
-description = "I can't access my artificial assistant! Oh no!"
+description = "I can't access my artificial person! Oh no!"
 date = 2025-12-30
 
 [extra]
@@ -42,5 +42,5 @@ oh my goodness i actually sat and wrote an entire blog post in an single sitting
 
 okay, the original draft i did in a single evening, the editing and the banner art didn't, though lol. i don't think so, at least.
 
-actually, scratch that, i did it all in the same day. thank You Jesus. let's freaking goooooooooooooooo
+actually, scratch that, i did it all in the same day-ish. thank You Jesus. let's freaking goooooooooooooooo
 </details>
