@@ -24,7 +24,7 @@ feed_filenames = ["rss.xml"]
 feed_limit = 20
 
 # The default author for pages
-author = "Yoru C. Heartless"
+author = "Yoru C. Jiyuu"
 
 taxonomies = [
     { name = "tags", feed = false },
