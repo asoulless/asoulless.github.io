@@ -1,0 +1,15 @@
+:root {
+    background-color: black;
+    color: whitesmoke;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    min-height: 98vh;
+    justify-content: center;
+    font-size: 1.1em;
+}
+footer {
+    margin-top: 2em;
+}
