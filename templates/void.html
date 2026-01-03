@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>...?</title>
+  <link type="text/css" rel="stylesheet" href="void.css"/>
+</head>
+<body>
+    <section class="content">
+        <h3>{{page.title}}</h3>
+        {{page.content | safe}}
+    </section>
+    <footer>
+        <small>
+            <time datetime="{{ page.date | date(format=' %+') }}">
+                First version: {{ page.date }}
+            </time>
+            <span> {{ config.extra.separator | default(value="•") }} </span>
+            <time datetime="{{ page.updated | date(format=' %+') }}">
+                Updated: {{ page.updated }}
+            </time>
+        </small>
+    </footer>
+</body>
+</html>
