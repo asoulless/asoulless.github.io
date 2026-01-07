@@ -2,6 +2,7 @@
 title = "testing project"
 description = "this project is a slight test"
 weight = 1
+draft = true
 
 [taxonomies]
 tags = ["testing"]
