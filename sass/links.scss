@@ -1,7 +1,7 @@
 @use "masonry-layout.scss";
 @use "fancy-list.scss";
 
-a {
+.fancy-list a {
     display: flex;
     gap: 1em;
     align-items: center;
