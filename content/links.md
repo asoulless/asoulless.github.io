@@ -26,7 +26,7 @@ Some places you can also find me (that you probably found me from in the first p
 <article class="fancy-list">
 <h2>Signal</h2>
 
-- If you would like to contact me via <a href="https://signal.org/" class="external">Signal</a>, please contact me via some other method!
+- If you would like to contact me via <a href="https://signal.org/" class="external">Signal</a>, please contact me via some other method first!
 </article>
 </li>
 <li>
