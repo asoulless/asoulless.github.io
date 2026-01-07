@@ -25,7 +25,7 @@ Some things that I'm typically doing:
 </li>
 <li>
 <article>
-I actually made <a href="/img/bg.png">the background for this website</a> myself. Well, not entirely. A lot of the icons were based off of the <a class="external" href="https://phosphoricons.com">Phosphor Icons</a>. Still, it's an edited version of the wallpaper that I currently use on my devices.
+I actually made <a href="/img/bg.png">the background for this website</a> myself. Well, not entirely. Some of the icons used in the background were made with some of the <a class="external" href="https://phosphoricons.com">Phosphor Icons</a>. It's the same wallpaper that I use on my own devices (with a tweaked version for my phone).
 </article>
 </li>
 <li>
