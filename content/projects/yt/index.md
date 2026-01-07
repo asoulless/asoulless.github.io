@@ -12,8 +12,8 @@ banner = "banner.jpg"
 +++
 I've made quite a number of videos and posted them to YouTube. A lot of them are gaming montages, some of them are me fooling around with a video editor and a funny moment, and some of them are actually more experimental. As of late, I've been getting back into making videos again, though it's mainly been clip compilations. Nevertheless, here are the channels that I've used over the years:
 
-{{ image(url="/img/yt/heartless.png", alt="Yoru's profile picture, a Roblox avatar sporting black twists, a ski mask, and a black jacket over a white shirt. The background behind him is a pattern repeating the words, 'Remember Again!' in all caps.", end=true, no_hover=true) }}
-## Yoru C. Heartless
+{{ image(url="/img/yt/reach.png", alt="Yoru's profile picture, a Roblox avatar sporting black twists, a ski mask, and a black jacket over a white shirt. The background behind him is a pattern repeating the words, 'Remember Again!' in all caps.", end=true, no_hover=true) }}
+## Yoru C.
 My current "main" channel where I'm just posting whatever (which, as of writing, has mainly been Persona 5 Royal clip compilations). Maybe I'll post something that's more structured in the future...
 <p><a class="colored external" href="https://www.youtube.com/channel/UC5GeZMJ1MXbkPIO83FGSO_g">See the channel on YouTube</a></p>
 
