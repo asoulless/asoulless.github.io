@@ -55,7 +55,7 @@ I don't want more.
 
 I just want to know that I'm not alone.
 
-I know I have my family, and I know I have my friends, but how am I supposed to remember that I can rely on anyone when everyone's trying to push me off a cliff into a black hole of "independence", where I'll crushed by the infinite gravity of their expectations and torn apart twice at most. Once for when I possibly stab myself with a Stand Arrow to attempt to save my withering soul and achieve Heaven. And a final time when Heaven temporarily satisfies its lust for flesh as it tears me apart and devours me.
+I know I have my family, and I know I have my friends, but how am I supposed to remember that I can rely on anyone when everyone's trying to [push me off a cliff into a black hole of "independence"](https://www.youtube.com/watch?v=9hZzG251iZE), where I'll crushed by the infinite gravity of their expectations and torn apart twice at most. Once for when I possibly stab myself with a Stand Arrow to attempt to save my withering soul and achieve Heaven. And a final time when Heaven temporarily satisfies its lust for flesh as it tears me apart and devours me.
 
 <span style="color: hsl(0, 100%, 74%);">Whole</span>. <span style="color: hsl(0, 100%, 63%);">Skinned</span>. <span style="color: hsl(0, 100%, 52%);">Raw</span>. <span style="color: hsl(0, 100%, 41%);">Wriggling</span>. <span style="color: hsl(0, 100%, 30%); background: hsl(0, 100%, 74%)">Squirming</span>. <span style="color: hsl(0, 100%, 19%); background: hsl(0, 100%, 85%)">Barely alive</span>.
 
